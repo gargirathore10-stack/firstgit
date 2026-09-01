@@ -1,4 +1,4 @@
 # firstgit
 my first git repository
 <br>
-Author - Gargi
+Author - Gargi R
